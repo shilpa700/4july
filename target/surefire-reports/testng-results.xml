@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29316" started-at="2021-07-04T09:47:48Z" finished-at="2021-07-04T09:48:17Z">
+  <suite name="Suite" duration-ms="55367" started-at="2021-07-04T11:12:51Z" finished-at="2021-07-04T11:13:46Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="29316" started-at="2021-07-04T09:47:48Z" finished-at="2021-07-04T09:48:17Z">
-      <class name="com.jbk.demotest">
-        <test-method status="PASS" signature="TestCase01()[pri:0, instance:com.jbk.demotest@12843fce]" name="TestCase01" duration-ms="7869" started-at="2021-07-04T09:48:03Z" finished-at="2021-07-04T09:48:11Z">
+    <test name="Test" duration-ms="55367" started-at="2021-07-04T11:12:51Z" finished-at="2021-07-04T11:13:46Z">
+      <class name="com.jbk.testcases">
+        <test-method status="PASS" signature="TestCase01()[pri:0, instance:com.jbk.testcases@13c78c0b]" name="TestCase01" duration-ms="10097" started-at="2021-07-04T11:12:51Z" finished-at="2021-07-04T11:13:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase01 -->
-        <test-method status="PASS" signature="TestCase02()[pri:0, instance:com.jbk.demotest@12843fce]" name="TestCase02" duration-ms="6290" started-at="2021-07-04T09:48:11Z" finished-at="2021-07-04T09:48:17Z">
+        <test-method status="PASS" signature="TestCase02()[pri:0, instance:com.jbk.testcases@13c78c0b]" name="TestCase02" duration-ms="4920" started-at="2021-07-04T11:13:01Z" finished-at="2021-07-04T11:13:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase02 -->
-      </class> <!-- com.jbk.demotest -->
-      <class name="com.jbk.testcases">
-        <test-method status="PASS" signature="TestCase01()[pri:0, instance:com.jbk.testcases@13c78c0b]" name="TestCase01" duration-ms="15001" started-at="2021-07-04T09:47:48Z" finished-at="2021-07-04T09:48:03Z">
+      </class> <!-- com.jbk.testcases -->
+      <class name="com.jbk.NewUserPageTestCases">
+        <test-method status="PASS" signature="tes01()[pri:0, instance:com.jbk.NewUserPageTestCases@12843fce]" name="tes01" duration-ms="7056" started-at="2021-07-04T11:13:06Z" finished-at="2021-07-04T11:13:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestCase01 -->
-      </class> <!-- com.jbk.testcases -->
-    </test> <!-- Test1 -->
+        </test-method> <!-- tes01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.jbk.NewUserPageTestCases@12843fce]" name="test02" duration-ms="7283" started-at="2021-07-04T11:13:13Z" finished-at="2021-07-04T11:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.jbk.NewUserPageTestCases@12843fce]" name="test03" duration-ms="8108" started-at="2021-07-04T11:13:20Z" finished-at="2021-07-04T11:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="test04()[pri:0, instance:com.jbk.NewUserPageTestCases@12843fce]" name="test04" duration-ms="8034" started-at="2021-07-04T11:13:29Z" finished-at="2021-07-04T11:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method status="PASS" signature="test05()[pri:0, instance:com.jbk.NewUserPageTestCases@12843fce]" name="test05" duration-ms="9749" started-at="2021-07-04T11:13:37Z" finished-at="2021-07-04T11:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+      </class> <!-- com.jbk.NewUserPageTestCases -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

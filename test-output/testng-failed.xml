@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.jbk.testcases">
+      <class name="com.jbk.testCases01">
         <methods>
-          <include name="TestCase01"/>
+          <include name="tes01"/>
         </methods>
-      </class> <!-- com.jbk.testcases -->
+      </class> <!-- com.jbk.testCases01 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

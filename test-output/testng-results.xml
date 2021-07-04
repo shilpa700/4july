@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10306" started-at="2021-07-04T08:04:43Z" finished-at="2021-07-04T08:04:53Z">
+  <suite name="Default suite" duration-ms="10374" started-at="2021-07-04T11:08:10Z" finished-at="2021-07-04T11:08:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10306" started-at="2021-07-04T08:04:43Z" finished-at="2021-07-04T08:04:53Z">
-      <class name="com.jbk.testcases">
-        <test-method status="PASS" signature="TestCase01()[pri:0, instance:com.jbk.testcases@14acaea5]" name="TestCase01" duration-ms="10149" started-at="2021-07-04T08:04:43Z" finished-at="2021-07-04T08:04:53Z">
+    <test name="Default test" duration-ms="10374" started-at="2021-07-04T11:08:10Z" finished-at="2021-07-04T11:08:20Z">
+      <class name="com.jbk.testCases01">
+        <test-method status="PASS" signature="test05()[pri:0, instance:com.jbk.testCases01@14acaea5]" name="test05" duration-ms="10246" started-at="2021-07-04T11:08:10Z" finished-at="2021-07-04T11:08:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestCase01 -->
-      </class> <!-- com.jbk.testcases -->
+        </test-method> <!-- test05 -->
+      </class> <!-- com.jbk.testCases01 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
